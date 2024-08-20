@@ -1,5 +1,5 @@
 # WiFi-Capture-Page-M5Cardputer
-Wi-Fi login capture page for M5Cardputer Stamp ESP32 S3.
+Wi-Fi login capture page for M5Cardputer Stamp ESP32 S3. This project is a modification of https://github.com/ZrutrA/ESP32-Captive-WiFi-login-page
 
 ## Device information:
 
